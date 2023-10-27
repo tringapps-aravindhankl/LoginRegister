@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627850255252",
+    "project_id": "notification-94945",
+    "storage_bucket": "notification-94945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627850255252:android:5a139eb939b196102f4d81",
+        "android_client_info": {
+          "package_name": "com.example.loginregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQroMEfLZf9MRHKiW-w-lbmSF93cloqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
